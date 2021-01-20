@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\bin\Debug\Task App Mobile Concept.exe.config
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\bin\Debug\Task App Mobile Concept.exe
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\bin\Debug\Task App Mobile Concept.pdb
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\obj\Debug\Task App Mobile Concept.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\obj\Debug\Task_App_Mobile_Concept.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\obj\Debug\Task_App_Mobile_Concept.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\obj\Debug\Task App Mobile Concept.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\obj\Debug\Task App Mobile Concept.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\obj\Debug\Task App Mobile Concept.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\obj\Debug\Task App Mobile Concept.exe
+D:\AW 17\Source Code Visual Studio 19\Task App Mobile Concept\Task App Mobile Concept\obj\Debug\Task App Mobile Concept.pdb
