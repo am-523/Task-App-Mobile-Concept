@@ -37,7 +37,7 @@ Task App Mobile Concept
 
 
 ## Tutorial 📸
-- <a href="https://youtu.be/Hho3v1RIVhg">
+- <a href="https://youtu.be/Lko3XtXcoz0">
 			Youtube
 		</a> 
 
